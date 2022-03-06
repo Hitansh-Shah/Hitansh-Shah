@@ -13,5 +13,5 @@
 - 🌱 I’m currently learning **Django**
 - 📫 How to reach me: hitanshshah123@gmail.com
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I'm also trying stuff in **WEB 3**
+- ⚡ Fun fact: I'm also trying stuff in **WEB3** and would love to collaborate on web3 projects!
 
