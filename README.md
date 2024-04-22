@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Wagtail<br>⚡ Fun fact: I'm also trying stuff in WEB3 and would love to collaborate on web3 projects!
+🔭 
 
 
 ## 🌐 Socials:
